@@ -1,7 +1,6 @@
 # Pizza Sales Analysis with SQL
 This repository contains the SQL-based project for analyzing pizza sales data. The project focuses on identifying trends, understanding revenue generation, and gaining insights into customer preferences. The analysis is supported by datasets and presentation slides included in this repository.
-Here’s a draft README file for your GitHub repository:
-
+ 
 
 ## 📋 Project Overview
 This project uses detailed sales data to examine key aspects of the pizza business, including:
